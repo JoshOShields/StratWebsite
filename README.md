@@ -1,9 +1,9 @@
 # StratWebsite
 
 ## Authors
-Phillip McIntyre
-Josh O'Shields
-Esa Serog
+Phillip McIntyre  
+Josh O'Shields  
+Esa Serog  
 
 ## Description
 
